@@ -1,0 +1,18 @@
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:news/persentation/home/home.dart';
+import 'package:news/persentation/search_view.dart';
+
+class RoutesManager{
+  static const String home='/home';
+  static const String search='/search';
+ static Route? router(RouteSettings settings){
+    switch(settings.name){
+      case home:
+        return CupertinoPageRoute(builder: (context) => Home(),);
+      case search:
+        return CupertinoPageRoute(builder: (context) => SearchView(),);
+    }
+    return null;
+  }
+}

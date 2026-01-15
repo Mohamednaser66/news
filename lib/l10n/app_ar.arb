@@ -1,0 +1,17 @@
+{
+  "home": "الرئيسية",
+  "good_morning": "صباح الخير\nإليك بعض الأخبار لك",
+  "news_app": "تطبيق الأخبار",
+  "go_to_home": "الذهاب إلى الرئيسية",
+  "dark": "داكن",
+  "light": "فاتح",
+  "search": "بحث",
+  "not_found": "غير موجود",
+  "general": "عام",
+  "business": "أعمال",
+  "entertainment": "ترفيه",
+  "health": "صحة",
+  "science": "علوم",
+  "technology": "تكنولوجيا",
+  "sports": "رياضة"
+}
