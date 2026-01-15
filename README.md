@@ -1,9 +1,8 @@
 # news
-<<<<<<< HEAD
-=======
 
-A new Flutter project.
-
+A Flutter news application that provides the latest news across multiple categories with a clean and responsive UI.
+The app supports Light & Dark themes and multi-language localization, allowing users to switch themes and languages easily.
+Built with scalable architecture and optimized for performance on all devices.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
